@@ -1,10 +1,21 @@
-- 👋 Hi, my name is Emily Turcotte!
-- I am a fourth year Computer Science student with minors in business analytics and math.
-- I have interests in data science and UI/UX and I have tailored my course selection to help
-- me acheive a career in one of these fields. I am currently taking Data Mining,
-- Visual Interface for Data, and Data Science and Statistics to help better my skills. Along
-- with these courses I am enrolled in AI Principles and Applications, Design and Analysis of Algorithms,
-- and Software Engineering to have a broaden my knowledge.
+👋 Hi, my name is Emily Turcotte!
+I am a fourth year Computer Science student with minors in Business Analytics and Mathematics.
+I have interests in: 
+- data science
+- UI/UX
+I currently have the following skills:
+- Programming: C++, Python, Java, R, C, SQL, JavaScript, VBA, MATLAB, JavaScript, html
+- Softwares: Visual Studio, Microsoft Office, Eclipse, RStudio, Linux, Ubuntu
+I have tailored my course selection to help me acheive a career in one of these fields.
+I am currently taking:
+- Data Mining
+- Visual Interface for Data
+- Data Science and Statistics
+to help better my skills. Along with these courses I am enrolled in:
+- AI Principles and Applications
+- Design and Analysis of Algorithms
+- Software Engineering
+to broaden my knowledge in Computer Science.
 
 <!---
 eturcotte270/eturcotte270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
